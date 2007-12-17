@@ -11,7 +11,6 @@ Source1: testsuite2.tar.bz2
 License: GPL
 Group: File tools
 Url: http://j3e.de/linux/convmv/
-BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch: noarch
 
 %description
