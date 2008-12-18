@@ -1,5 +1,5 @@
 %define name convmv
-%define version 1.13
+%define version 1.14
 %define release %mkrel 1
 
 Summary: Converts filenames from one encoding to another
