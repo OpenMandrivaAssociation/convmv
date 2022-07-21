@@ -4,8 +4,8 @@
 
 Summary: Converts filenames from one encoding to another
 Name: %{name}
-Version: %{version}
-Release: %{release}
+Version: 2.05
+Release: 1%{release}
 Source0: http://www.j3e.de/linux/convmv/%{name}-%{version}.tar.gz
 Source1: testsuite2.tar.bz2
 License: GPLv2+
