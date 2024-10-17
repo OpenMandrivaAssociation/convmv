@@ -10,7 +10,7 @@ Source0: http://www.j3e.de/linux/convmv/%{name}-%{version}.tar.gz
 Source1: testsuite2.tar.bz2
 License: GPLv2+
 Group: File tools
-Url: http://j3e.de/linux/convmv/
+Url: https://j3e.de/linux/convmv/
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch: noarch
 
